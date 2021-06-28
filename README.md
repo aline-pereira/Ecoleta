@@ -1,7 +1,5 @@
 # Ecoleta
 Web application to register collect point of recycle materials.
-👨🏻‍💻 About the project
-BookApp is like a market, being a connection between people or entities that want to donate books, magazines and comic books. Donations that are not in good condition will be sent for recycling.
 
 🚀 Frontend Technologies
 Project Screenshots
