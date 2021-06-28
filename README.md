@@ -21,7 +21,7 @@ Clone the project and access the folder
 
 $ git clone https://github.com/aline-pereira/bookapp.git
 
-$ cd bookapp
+$ cd ecoleta
 
 $ cd web
 
