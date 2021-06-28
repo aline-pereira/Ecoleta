@@ -17,9 +17,9 @@ Node.js
 npm
 Clone the project and access the folder
 
-$ git clone https://github.com/aline-pereira/bookapp.git
+$ git clone https://github.com/aline-pereira/Ecoleta.git
 
-$ cd ecoleta
+$ cd Ecoleta
 
 $ cd web
 
